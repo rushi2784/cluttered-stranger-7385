@@ -1,7 +1,5 @@
 # Booking.com - Clone
 
-<img src="https://lh3.googleusercontent.com/zyVawGkrNqTVDv1h2qrPcFty0ARE-tkuVadf3wo7m0LwLJuHWbHxQZsboLRX9q6rLkmHzA=s170">
-
 ## Team members:
 1. Rishi Ranjan Kumar (Team Lead)
 2. Ravi Ranjan Kumar
@@ -53,13 +51,13 @@ png)
 **Flight Option Page**
 ![Flight option page](https://user-images.githubusercontent.com/97913174/183266831-3c0bbd87-533b-41f0-8c38-7e7a0f67f555.png)
 
-**Flight Details Page**
-![Flight details page](https://user-images.githubusercontent.com/97913174/183266833-d5b7d661-6fb6-4e2f-9b23-d855861ebc58.png)
+**Flight Details Modal Page**
+![bookingModal](https://user-images.githubusercontent.com/96285307/185624010-2fcf546a-75aa-4ce7-830c-4f9b8719959c.png)
 
 **Flight Contact details Page**
 ![Flight Contact details](https://user-images.githubusercontent.com/97913174/183266836-332fadaf-ef8e-4745-b2e3-b428ab6c8d42.png)
 
-**Payment authentication Page**
+**Payment authentication wih otp Page**
 ![flight paymetn page](https://user-images.githubusercontent.com/97913174/183266838-8a554545-b820-4c43-9307-d2c2e9fbd7e4.png)
 
 
@@ -97,9 +95,10 @@ png)
 
     1. Creation of the Flight Options Page.
     2. Functionality of Filtering through best, cheap, or fastest flights 
-    3. Flights checkout page
+    3. Flights ticked details Modal page
     4. Flight final Payment page
-    5. Flights uder details page
+    5. Flights checkout page
+    6. Flight book successful with otp functionality page
 
 <br>
 
