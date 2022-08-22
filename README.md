@@ -32,19 +32,6 @@ The project has been completed within the duration of 5 days. Each of us had sha
 **Landing Page**
 ![landingPage](https://user-images.githubusercontent.com/97913174/183266809-e3d25a8a-85f5-4b2d-b214-55bc2b16d99f.png)
 
-**Hotel Page**
-![Hotel Page](https://user-images.githubusercontent.com/97913174/183266812-1cf3de21-750e-441a-95d2-75231adb2a0e.png)
-
-**Hootel See Avilablity Page**
-![see availability page](https://user-images.git
-
-**Hotel Checkout page**
-![hotel checkout page](https://user-images.githubusercontent.com/97913174/183266821-f778b579-7b68-4c9a-be93-9396fbf1457a.png)
-
-**Hotel payment Page**
-![hotel payment page](https://user-images.githubusercontent.com/97913174/183266826-815f0b67-3c50-48ce-9235-36cfe9e572d3.png)
-png)
-
 **Flight Page**
 ![Flight page](https://user-images.githubusercontent.com/97913174/183266828-25e16b14-264e-493a-8913-36b448119737.png)
 
